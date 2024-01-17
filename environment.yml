@@ -1,0 +1,14 @@
+name: hyp3
+channels:
+  - conda-forge
+dependencies:
+  - hyp3_sdk
+  - asf_search
+  - geopandas
+  - folium
+  - odc-stac
+  - rioxarray
+  - matplotlib
+  - ipykernel
+  - rio-stac
+  - jsonschema

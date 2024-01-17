@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "012_023790_IW",
+  "stac_version": "1.0.0",
+  "description": "Catalog of items from fufiters with id 012_023790_IW",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2023/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2024/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "ASF S1 BURST INTERFEROGRAMS"
+    }
+  ]
+}

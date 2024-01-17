@@ -1,0 +1,24 @@
+{
+  "type": "Catalog",
+  "id": "fufiters",
+  "stac_version": "1.0.0",
+  "description": "https://github.com/relativeorbit/incubator2024",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./fufiters/collection.json",
+      "type": "application/json",
+      "title": "ASF S1 BURST INTERFEROGRAMS"
+    },
+    {
+      "rel": "self",
+      "href": "/Users/scott/GitHub/relativeorbit/incubator2024/hyp3/catalog.json",
+      "type": "application/json"
+    }
+  ]
+}
