@@ -11,7 +11,12 @@
     },
     {
       "rel": "child",
-      "href": "./012_023790_IW/catalog.json",
+      "href": "./121_258661_IW2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./012_023790_IW1/catalog.json",
       "type": "application/json"
     },
     {

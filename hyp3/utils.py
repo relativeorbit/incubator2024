@@ -97,7 +97,7 @@ def hyp32stac(job):
                       start_datetime=str_to_datetime(start).isoformat()+'Z',
                       end_datetime=str_to_datetime(end).isoformat()+'Z',
                       processingDate=str_to_datetime(job.request_time).isoformat()+'Z',
-                      burstId=job['name'][:13],
+                      burstId=job['name'][:14],
                       granules=job.job_parameters['granules'],
                      )
     #properties['sat:orbit_state']=row.flightDirection.lower()
