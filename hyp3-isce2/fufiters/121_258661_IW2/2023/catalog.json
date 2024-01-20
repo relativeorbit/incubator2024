@@ -1,0 +1,33 @@
+{
+  "type": "Catalog",
+  "id": "2023",
+  "stac_version": "1.0.0",
+  "description": "Catalog of items from 121_258661_IW2 with id 2023",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1_258661_IW2_20230617_20230711_VV_INT20_B642/S1_258661_IW2_20230617_20230711_VV_INT20_B642.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1_258661_IW2_20230617_20230816_VV_INT20_3199/S1_258661_IW2_20230617_20230816_VV_INT20_3199.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}
