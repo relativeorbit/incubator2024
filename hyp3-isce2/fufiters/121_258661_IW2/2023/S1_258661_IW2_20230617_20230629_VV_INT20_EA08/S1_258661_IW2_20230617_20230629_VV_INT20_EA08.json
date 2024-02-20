@@ -228,48 +228,6 @@
     }
   ],
   "assets": {
-    "conncomp": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_conncomp.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
-    "corr": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_corr.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
-    "dem": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_dem.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
-    "lv_phi": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_lv_phi.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
-    "lv_theta": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_lv_theta.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
-    "unwrapped": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_unw_phase.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
     "wrapped": {
       "href": "s3://fufiters/121_258661_IW2/20230617_20230629/S1_258661_IW2_20230617_20230629_VV_INT20_EA08/S1_258661_IW2_20230617_20230629_VV_INT20_EA08_wrapped_phase.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
