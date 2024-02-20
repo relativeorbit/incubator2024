@@ -10,6 +10,7 @@
     "passDirection": "DESCENDING",
     "perpendicularBaseline": "243.30238153172428",
     "demSource": "GLO_30",
+    "version":"test",
     "granules": [
       "S1_258661_IW2_20230617T001146_VV_EB5D-BURST",
       "S1_258661_IW2_20230629T001146_VV_8416-BURST"
