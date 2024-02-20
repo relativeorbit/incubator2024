@@ -228,13 +228,6 @@
     }
   ],
   "assets": {
-    "conncomp": {
-      "href": "s3://fufiters/121_258661_IW2/20230617_20230711/S1_258661_IW2_20230617_20230711_VV_INT20_B642/S1_258661_IW2_20230617_20230711_VV_INT20_B642_conncomp.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "roles": [
-        "data"
-      ]
-    },
     "corr": {
       "href": "s3://fufiters/121_258661_IW2/20230617_20230711/S1_258661_IW2_20230617_20230711_VV_INT20_B642/S1_258661_IW2_20230617_20230711_VV_INT20_B642_corr.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
